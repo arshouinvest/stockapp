@@ -7,4 +7,4 @@ prophet==1.1.1
 requests==2.28.1
 streamlit==1.18.1
 yfinance==0.2.3
-~treamlit==1.16.0
+
